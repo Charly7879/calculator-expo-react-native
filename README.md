@@ -65,5 +65,5 @@ Lo utilizo como referencia en mi [LinkedIn](https://www.linkedin.com/in/tu-perfi
 ## 👨‍💻 Autor
 
 **José Carlos Ceballez**
-*Técnico Superior en Programación - UTN*
+*Técnico Superior en Programación - UTN*  
 🔗 LinkedIn: [linkedin.com/in/carlos-ceballez/](https://www.linkedin.com/in/carlos-ceballez/)
