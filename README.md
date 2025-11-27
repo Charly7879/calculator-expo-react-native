@@ -49,7 +49,7 @@ Lo utilizo como referencia en mi [LinkedIn](https://www.linkedin.com/in/tu-perfi
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/calculator-app.git
+   git clone https://github.com/Charly7879/calculator-expo-react-native.git
    ```
 2. Instalar dependencias:
    ```bash
