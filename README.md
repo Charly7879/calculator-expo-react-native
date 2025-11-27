@@ -29,7 +29,7 @@ El objetivo fue aplicar buenas prácticas de modularidad, reutilización y docum
 
 ## 📸 Capturas
 
-_Aquí puedes agregar imágenes de la app funcionando en iOS y Android._
+![Calculadora Expo React Native](assets/images/Screenshot_400px.png)
 
 ---
 
